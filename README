@@ -1,0 +1,7 @@
+1) Ensure you have Java 1.8 and Maven on you local system.
+2) If you want to run the test on ChromeDriver, please download chrome driver from Seleniumhq.org
+   and provide the path to chromedriver on "ColorPageTest" class.
+3) Open up the project using an IDE, I used Intellij IDEA
+4) Navigate to the test folder
+5) Context click on the "ColorPageTest" class and hit run
+6) OR using the command line navigate to the project structure and type "mvn verify"
